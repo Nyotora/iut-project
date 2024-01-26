@@ -45,13 +45,5 @@
     "@hapipal/hpal-debug": "2.x.x",
     "knex": "^0.21.16",
     "@hapipal/toys": "3.x.x"
-  },
-  "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Nyotora/iut-project.git"
-    },
-    "bugs": {
-      "url": "https://github.com/Nyotora/iut-project/issues"
-    },
-    "homepage": "https://github.com/Nyotora/iut-project#readme"
+  }
 }
