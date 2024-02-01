@@ -15,10 +15,11 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@hapi/boom": "9.x.x",
+    "@hapi/boom": "^9.1.4",
     "@hapipal/haute-couture": "4.x.x",
     "@hapipal/schmervice": "^3.0.0",
     "@hapipal/schwifty": "6.x.x",
+    "@nyotora/iut-encrypt": "^1.0.0",
     "exiting": "6.0.1",
     "joi": "17.x.x",
     "mysql": "^2.18.1",
